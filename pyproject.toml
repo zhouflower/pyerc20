@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pyerc20"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 homepage = "https://github.com/zhouflower/pyerc20"
 repository = "https://github.com/zhouflower/pyerc20"
